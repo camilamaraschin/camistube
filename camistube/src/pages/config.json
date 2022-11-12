@@ -1,0 +1,114 @@
+ {
+
+    "name": "Camila Maraschin",
+    "job": "Desenvolvedora de Software",
+    "bg": "https://uploaddeimagens.com.br/images/004/158/022/original/Puprle_Pink_Futuristic_Technology_Linkedin_Banner.jpg?1668082423",
+    "github": "camilamaraschin",
+    "favorites": [
+        {
+
+        }
+    ],
+    "playlists": {
+        "musica": [
+            {
+                "title": "Sam Smith, Kim Petras - Unholy",
+                "url": "https://www.youtube.com/watch?v=Uq9gPaIzbe8&ab_channel=SamSmithVEVO",
+                "thumb": "https://img.youtube.com/vi/Uq9gPaIzbe8/maxresdefault.jpg"
+            },
+            {
+                "title": "Vitor Kley - Tudo Me Lembra Você",
+                "url": "https://www.youtube.com/watch?v=fxSW9m1CVHQ&ab_cult_6s.webp?du=3000&sqp=Channel=MidasMusic",
+                "thumb": "https://img.youtube.com/vi/fxSW9m1CVHQ/maxresdefault.jpg"
+            },
+            {
+                "title": "Vitão - Um Pouco de Você",
+                "url": "https://www.youtube.com/watch?v=pZXcv8bcJaM&ab_channel=VitaoVEVO",
+                "thumb": "https://img.youtube.com/vi/pZXcv8bcJaM/maxresdefault.jpg"
+            },
+            {
+                "title": "Lagum, Iza - Será",
+                "url": "https://www.youtube.com/watch?v=ubnmMTO8EEw&ab_channel=LagumVEVO",
+                "thumb": "https://img.youtube.com/vi/ubnmMTO8EEw/maxresdefault.jpg"
+            },
+            {
+                "title": "Imagine Dragons - Bones",
+                "url": "https://www.youtube.com/watch?v=TO-_3tck2tg&ab_channel=ImagineDragonsVEVO",
+                "thumb": "https://img.youtube.com/vi/TO-_3tck2tg/maxresdefault.jpg"
+            },
+            {
+                "title": "Coldyplay feat Beyoncé - Hymn for the Weekend",
+                "url": "https://www.youtube.com/watch?v=1As2xAHBh4k&ab_channel=Beyonc%C3%A9Legendas",
+                "thumb": "https://img.youtube.com/vi/1As2xAHBh4k/maxresdefault.jpg"
+            }
+            
+        ],
+        "front-end": [
+            {
+                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+                "url": "https://youtube.com/watch?v=jOAU81jdi-c",
+                "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+            },
+            {
+                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+                "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
+                "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+            },
+            {
+                "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
+                "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
+                "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+            },
+            {
+                "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
+                "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+                "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+            },
+            {
+                "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
+                "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
+                "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+            },
+            {
+                "title": "Como Foi Programado um App Que Faz Mágica",
+                "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
+                "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+            }
+           
+        ],
+        "back-end": [
+            {
+                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+                "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+                "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+            },
+            {
+                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+                "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+                "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+            },
+            {
+                "title": "O que é o Java? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+                "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+            },
+            {
+                "title": "O que é Machine Learning? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+                "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+            },
+            {
+                "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+                "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+            },
+            {
+                "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
+                "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+            }
+        ]
+    }
+}
+
+     
